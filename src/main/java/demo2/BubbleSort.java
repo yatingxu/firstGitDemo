@@ -3,7 +3,7 @@ package demo2;
 import java.util.Arrays;
 
 /**
- * 冒泡排序
+ * 冒泡排序算法
  * @author xyt
  */
 public class BubbleSort {
